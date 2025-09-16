@@ -24,7 +24,8 @@
 ---
 
 ## 🏆 Troféus
-![Trophy](https://github-profile-trophy.vercel.app/?username=DiegoViana90&theme=dracula)
+![Trophy](https://github-profile-trophy.vercel.app/?username=DiegoViana90&theme=dracula&row=1&column=3)
+
 
 ---
 
