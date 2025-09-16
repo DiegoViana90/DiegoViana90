@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Diego!
 
-💻 Desenvolvedor apaixonado por tecnologia.  
+💻 Software Developer Pleno | C# .NET, MAUI, TypeScript, React.  
 🚀 Atualmente trabalhando com **C#, .NET, Flutter e Dart**.  
 
 ---
