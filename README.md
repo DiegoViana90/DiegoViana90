@@ -4,16 +4,6 @@
   💻 <strong>Software Developer Pleno</strong> | C# .NET, MAUI, TypeScript, React<br/>
   🚀 Atualmente trabalhando com <strong>C#, .NET, Flutter e Dart</strong>
 </p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoViana90&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0066&icon_color=FF0066" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoViana90&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0066" height="165"/>
-</p>
-
 ---
 
 ## 🔥 Streak & Troféus
