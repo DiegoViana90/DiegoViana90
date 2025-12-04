@@ -6,15 +6,6 @@
 </p>
 ---
 
-## 🔥 Streak & Troféus
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DiegoViana90&theme=radical&hide_border=true&background=0D1117" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DiegoViana90&theme=dracula&no-frame=true&row=1&column=4" height="120"/>
-</p>
-
----
-
 ## 📈 Métricas de Contribuição
 
 <p align="center">
