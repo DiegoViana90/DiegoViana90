@@ -51,15 +51,6 @@
 
 ---
 
-## ✨ Um Pouco Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções elegantes e funcionais.  
-Gosto de aprender novas stacks, explorar arquiteturas limpas e contribuir com projetos open source.
-
-📈 Atualmente buscando me aprofundar em **arquitetura de software e boas práticas de clean code**.
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiegoViana90&label=Visitas%20ao%20perfil&color=FF0066&style=flat-square" alt="profile views" />
 </p>
